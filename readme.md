@@ -13,7 +13,7 @@ Hey! I'm a final-year Computer Science student passionate about front-end develo
 
 ---
 
-### Connect, Develop, Grow
+### Connect 🌐 Create 🎨 Grow 🌳
 <p align="left">
   <a href="https://github.com/SathaSivamRS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -69,4 +69,5 @@ Hey! I'm a final-year Computer Science student passionate about front-end develo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SathaSivamRS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=SathaSivamRS&icon=0&color=0)](https://visitcount.itsvg.in)
