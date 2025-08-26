@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&vCenter=true&width=600&lines=Hi+there!+I'm+Sathasivam+R+S+%F0%9F%91%8B;Tea+lover+%E2%98%95+%7C+Idea+maker+%F0%9F%92%A1+%7C+Code+crafter+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&vCenter=true&width=600&lines=Hi+there!+I'm+Sathasivam+R+S+%F0%9F%91%8B;Tea+lover+%E2%98%95%2C+Idea+maker+%F0%9F%92%A1%2C+Code+crafter+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 Hey! I'm a final-year Computer Science student passionate about front-end development and user experience. I enjoy blending creativity with technical expertise to build engaging digital experiences, with experience in WordPress development, UI design, and event branding.
 
@@ -71,6 +71,7 @@ Hey! I'm a final-year Computer Science student passionate about front-end develo
 ---
 
 [![](https://visitcount.itsvg.in/api?id=SathaSivamRS&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
