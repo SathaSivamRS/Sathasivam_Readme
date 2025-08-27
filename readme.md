@@ -7,7 +7,7 @@ Hey! I'm a final-year Computer Science student passionate about front-end develo
 ### ⚡ A Quick Introduction
 - 🔭 I'm looking for new opportunities and projects to collaborate on.
 - 💬 Ask me about **Front-end Development, UI/UX, and WordPress**.
-- 🌱 I’m currently developing an AI-powered mobile app with **Flutter & Firebase**.
+<!-- - 🌱 I’m currently developing an AI-powered mobile app with **Flutter & Firebase**. -->
 - 🎨 Passionate about visual design and branding.
 - 📫 How to reach me: Links are below 👇
 
@@ -71,6 +71,7 @@ Hey! I'm a final-year Computer Science student passionate about front-end develo
 ---
 
 [![](https://visitcount.itsvg.in/api?id=SathaSivamRS&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
